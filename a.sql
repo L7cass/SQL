@@ -1,0 +1,1 @@
+CREATE DATABASE primeiro_banco_de_dados;ss
